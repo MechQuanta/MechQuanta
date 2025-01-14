@@ -1,0 +1,17 @@
+# csv file ignore
+*.csv
+
+# weight parameter
+*.pt
+
+# ignore dataset
+dataset/*
+
+# ignore run file
+runs/*
+
+# ignore .out
+*.out
+
+# NS transformer : not complete
+src/nn_env/NStransformer.py
